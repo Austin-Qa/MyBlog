@@ -1,0 +1,1 @@
+copy "F:\MyBlog\source\_posts\*" "F:\Blog_Bak\MyBlog\source\_posts"
